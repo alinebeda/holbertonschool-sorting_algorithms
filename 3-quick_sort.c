@@ -49,6 +49,7 @@ int partition(int *array, int debu, int end, int size)
  * @end: indice fin du tableau
  * @size: size of array
  */
+
 void quickSort(int *array, int debu, int end, int size)
 {
 	int parti_index;
